@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2012\Projects\Android_gTools\Android_gTools\bin\Debug\Android_gTools.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\Android_gTools\Android_gTools\bin\Debug\Android_gTools.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Android_gTools\Android_gTools\bin\Debug\Android_gTools.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\Android_gTools\Android_gTools\obj\Debug\Android_gTools.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\Android_gTools\Android_gTools\obj\Debug\Android_gTools.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\Android_gTools\Android_gTools\obj\Debug\Android_gTools.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\Android_gTools\Android_gTools\obj\Debug\Android_gTools.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Android_gTools\Android_gTools\obj\Debug\Android_gTools.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Android_gTools\Android_gTools\obj\Debug\Android_gTools.Main.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Android_gTools\Android_gTools\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Android_gTools\Android_gTools\bin\Debug\Newtonsoft.Json.xml
