@@ -5,6 +5,7 @@
  - 
 Android 布局xml解析代码生成工具
 [相关文章](http://keyboard3.leanote.com/post/Android%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7-Android-gTools-2)
+
 #Android-gTools
 ##页面功能介绍
 ###生成绑定控件的代码
